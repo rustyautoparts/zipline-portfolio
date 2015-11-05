@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "personal portfolio",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rustyautoparts/potential-shame.git"
+  },
+  "author": "Russ Otto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rustyautoparts/potential-shame/issues"
+  },
+  "homepage": "https://github.com/rustyautoparts/potential-shame#readme",
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.0"
+  }
+}

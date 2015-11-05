@@ -1,0 +1,21 @@
+{
+  "name": "portfolio",
+  "description": "personal portfolio",
+  "main": "gulpfile.js",
+  "authors": [
+    "Russ Otto"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/rustyautoparts/potential-shame",
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,13 @@
+$base-color: #000000;
+$base-font: "Source Code Pro";
+$alt-font: "Terminus";
+
+body {
+  color: $base-color;
+}
+h1 {
+  font-family: $base-font;
+}
+h2 {
+  font-family: $alt-font;
+}
